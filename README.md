@@ -1,5 +1,5 @@
-# PC5_Tugas2_nim
-### Nama
+# PC5_Tugas2_201401087
+### Aqshal Aurellio Athaillah
 ### PC 5
 
 
